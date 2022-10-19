@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaquintino
 - 👀 I’m interested in ...estágio ou efetivo em desenvolvimento de sistemas
-- 🌱 I’m currently learning ... desenvolvimento de sistemas no SENAI florianópolis
+- 🌱 I’m currently learning ... desenvolvimento de sistemas no SENAI Florianópolis
 - 💞️ I’m looking to collaborate on ...empresas de desenvolvimento de softwares.
 - 📫 How to reach me ...rafaelquintino8115@gmail.com ou +5548988321928
 
